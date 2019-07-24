@@ -1,7 +1,5 @@
 # Appium instalation instructions for Mac OS users
 
-------
-
 1. homebrew
 2. xcode
 3. jdk
@@ -9,8 +7,6 @@
 5. avd
 6. node and npm
 7. appium
-
---------
 
 ## 1. homebrew
 
