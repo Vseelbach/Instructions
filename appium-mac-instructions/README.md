@@ -54,11 +54,13 @@ Homebrew/homebrew-core (git revision 6b334; last commit 2019-05-14)
 
 **xcode** is an integrated development environment for macOS containing a suite of software development tools developed by Apple for developing software for macOS, iOS, iPadOS, watchOS, and tvOS.
 
-To get *Xcode*, open *App Store*, look for *Xcode*, hit *GET* (check out the screenshot below). I have it already installed, so there is *OPEN* instead of *GET*.![Screen Shot 2019-07-20 at 2.16.26 PM](./Screen Shot 2019-07-20 at 2.16.26 PM.png)
+To get *Xcode*, open *App Store*, look for *Xcode*, hit *GET* (check out the screenshot below). I have it already installed, so there is *OPEN* instead of *GET*.
+
+![](./Screen_Shot_2019-07-20_at_2.16.26PM.png)
 
 Follow instalation instructions, you should be able to open *Xcode* at after the process:
 
-![Screen Shot 2019-07-20 at 2.49.03 PM](./Screen Shot 2019-07-20 at 2.49.03 PM.png)
+![](./Screen_Shot_2019-07-20_at_2.49.03PM.png)
 
 ## 3. jdk
 
@@ -88,33 +90,33 @@ Download Android Studio from [here](https://developer.android.com/studio?pkg=stu
 
 Open **Android Studio** click on *Configure* and select *AVD Manager*:
 
-![Screen Shot 2019-07-20 at 5.01.02 PM](./Screen Shot 2019-07-20 at 5.01.02 PM.png)
+![](./Screen_Shot_2019-07-20_at_5.01.02PM.png)
 
 Click at *Create Virtual Device*:
 
-![Screen Shot 2019-07-20 at 5.02.30 PM](./Screen Shot 2019-07-20 at 5.02.30 PM.png)
+![](./Screen_Shot_2019-07-20_at_5.02.30PM.png)
 
 Go with *Pixel 2* and hit *Next*:
 
-![Screen Shot 2019-07-20 at 5.03.29 PM](./Screen Shot 2019-07-20 at 5.03.29 PM.png)
+![](./Screen_Shot_2019-07-20_at_5.03.29PM.png)
 
 Download Android *Q* os image by clicking at *Download* link and following instalation instructions:
 
-![Screen Shot 2019-07-20 at 5.04.29 PM](./Screen Shot 2019-07-20 at 5.04.29 PM.png)
+![](./Screen_Shot_2019-07-20_at_5.04.29PM.png)
 
-![Screen Shot 2019-07-20 at 5.08.52 PM](./Screen Shot 2019-07-20 at 5.08.52 PM.png)
+![](./Screen_Shot_2019-07-20_at_5.08.52PM.png)
 
 Now it's a time to create an emulator, select Android *Q* os image and hit next:
 
-![Screen Shot 2019-07-20 at 5.14.51 PM](./Screen Shot 2019-07-20 at 5.14.51 PM.png)
+![](./Screen_Shot_2019-07-20_at_5.14.51PM.png)
 
 Rename AND so the name doesn't contain spaces and click *Next*:
 
-![Screen Shot 2019-07-20 at 5.15.16 PM](./Screen Shot 2019-07-20 at 5.15.16 PM.png)
+![](./Screen_Shot_2019-07-20_at_5.15.16PM.png)
 
 Run emulator by clicking play button:
 
-![Screen Shot 2019-07-20 at 5.16.26 PM](./Screen Shot 2019-07-20 at 5.16.26 PM.png)
+![](./Screen_Shot_2019-07-20_at_5.16.26PM.png)
 
 ## 6. node.js and npm
 
@@ -213,7 +215,7 @@ export PATH=$PATH:~/.local/bin$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools:$
 
 Example:
 
- ![Screen Shot 2019-07-20 at 4.46.16 PM](./Screen Shot 2019-07-20 at 4.46.16 PM.png)
+ ![](./Screen_Shot_2019-07-20_at_4.46.16PM.png)
 
 To save changes to the file hit *Control + X*, type *y* and hit *Enter*. **Important**, finish current terminal promt session (close all terminal windows) and start a new one, so changes to `.bash_profile` are in sync.
 
