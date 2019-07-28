@@ -84,7 +84,7 @@ Otherwise, proceed to this [page](https://www.oracle.com/technetwork/java/javase
 
 ## 4. android sdk
 
-Download Android Studio from [here](https://developer.android.com/studio?pkg=studio), might take a while, installer quite bulky. Open installer and follow instalation instructions. Outcome of instalation process should be: ![Screen Shot 2019-07-20 at 3.16.06 PM](./Screen Shot 2019-07-20 at 3.16.06 PM.png)
+Download Android Studio from [here](https://developer.android.com/studio?pkg=studio), might take a while, installer quite bulky. Open installer and follow instalation instructions. Outcome of instalation process should be: ![Screen Shot 2019-07-20 at 3.16.06 PM](./Screen_Shot_2019-07-20_at_3.16.06PM.png)
 
 ## 5. avd
 
